@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\C#\UpcastDowncast\UpcastDowncast\bin\Debug\netcoreapp3.1\UpcastDowncast.exe
+C:\Users\ASUS\Desktop\C#\UpcastDowncast\UpcastDowncast\bin\Debug\netcoreapp3.1\UpcastDowncast.deps.json
+C:\Users\ASUS\Desktop\C#\UpcastDowncast\UpcastDowncast\bin\Debug\netcoreapp3.1\UpcastDowncast.runtimeconfig.json
+C:\Users\ASUS\Desktop\C#\UpcastDowncast\UpcastDowncast\bin\Debug\netcoreapp3.1\UpcastDowncast.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\C#\UpcastDowncast\UpcastDowncast\bin\Debug\netcoreapp3.1\UpcastDowncast.dll
+C:\Users\ASUS\Desktop\C#\UpcastDowncast\UpcastDowncast\bin\Debug\netcoreapp3.1\UpcastDowncast.pdb
+C:\Users\ASUS\Desktop\C#\UpcastDowncast\UpcastDowncast\obj\Debug\netcoreapp3.1\UpcastDowncast.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\UpcastDowncast\UpcastDowncast\obj\Debug\netcoreapp3.1\UpcastDowncast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C#\UpcastDowncast\UpcastDowncast\obj\Debug\netcoreapp3.1\UpcastDowncast.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C#\UpcastDowncast\UpcastDowncast\obj\Debug\netcoreapp3.1\UpcastDowncast.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C#\UpcastDowncast\UpcastDowncast\obj\Debug\netcoreapp3.1\UpcastDowncast.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#\UpcastDowncast\UpcastDowncast\obj\Debug\netcoreapp3.1\UpcastDowncast.dll
+C:\Users\ASUS\Desktop\C#\UpcastDowncast\UpcastDowncast\obj\Debug\netcoreapp3.1\UpcastDowncast.pdb
+C:\Users\ASUS\Desktop\C#\UpcastDowncast\UpcastDowncast\obj\Debug\netcoreapp3.1\UpcastDowncast.genruntimeconfig.cache
